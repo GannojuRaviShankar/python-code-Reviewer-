@@ -20,49 +20,6 @@ Streamlit (for UI)
 
 OpenAI/GoogleAI API (for AI-powered code review)
 
-🚀 Installation
+🚀 Screenshots
+![image](https://github.com/user-attachments/assets/3095bbc6-5c85-4a84-b44c-57d8fde9e0b6)
 
-1️⃣ Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/GannojuRaviShankar/python-code-Reviewer-.git
-cd python-code-Reviewer-
-
-2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-
-3️⃣ Run the application:
-
-bash
-Copy
-Edit
-
-streamlit run codereviewer.py
-
-📂 How to Use
-Upload a Python script or Jupyter Notebook (.ipynb).
-Click the "Review Code" button.
-
-Get detailed feedback with bug fixes and improvements.
-
-🤝 Contributing
-Pull requests are welcome! Please follow these steps:
-
-Fork the repository.
-
-Create a new branch: git checkout -b feature-branch-name
-
-Commit your changes: git commit -m "Add new feature"
-
-Push to the branch: git push origin feature-branch-name
-
-Open a pull request.
-
-📜 License
-This project is licensed under the MIT License.
