@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAi9cFdx3psNuBhKlqNIQxpWg1QjCWVDbI")
+genai.configure(api_key="apikey")
 sys_prompt = """
 You are a helpful Python tutor. You can resolve queries related to Python code, review it, and provide feedback on potential 
 bugs along with suggestions for fixes. If the code is in any other language, you will ask whether the user wants it converted into Python. 
